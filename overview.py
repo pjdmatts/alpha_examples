@@ -1,4 +1,4 @@
-# Income Statement
+# Company Overview
 
 import requests
 import constants
@@ -7,7 +7,7 @@ key = constants.key
 
 symbol = 'GE'
 
-api_function = 'INCOME_STATEMENT'
+api_function = 'OVERVIEW'
 
 params = {'function': api_function, 'symbol': symbol, 'apikey': key}
 
