@@ -1,2 +1,2 @@
 # alpha_examples
-Examples using Alpha Vantage
+Examples using [Alpha Vantage](https://www.alphavantage.co/)
